@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"I want to create a Python script that can show the top items from all the vendors on Fashiongo.net. Please generate the code for this.","md5":"6b9970de336667fcd8dd953e4146fc6e"}]}
